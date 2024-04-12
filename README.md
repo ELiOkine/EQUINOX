@@ -51,7 +51,7 @@ The Equinox Car Dealership website was created by Emmanuel Nii Aryeequaye Eli Ok
 To access the admin dashboard, please use the following credentials:
 
 - **Username:** Admin
-- **Password:** Qwerty1234
+- **Password:** Qwerty12345
 
 ## Live Demo
 Watch our live demo to see the Equinox Car Dealership website in action:
